@@ -1,24 +1,30 @@
-# Compiled class file
-*.class
 
-# Log file
-*.log
+Basic_Samples/Embeddings/dotnet/csharp/fine_food_reviews_with_embeddings_1k.csv
+**/qdrant_storage/*
 
-# BlueJ files
-*.ctxt
+# Apple
+.DS_Store
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+# Common
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+[Rr]eleases/
 
-# Package Files #
-*.jar
-*.war
-*.nar
-*.ear
-*.zip
-*.tar.gz
-*.rar
+# Microsoft
+.vs/
+**/appsettings.[Dd]evelopment.json
+Basic_Samples/Embeddings/dotnet/csharp/query_rewriting_pack/
+Basic_Samples/Embeddings/dotnet/polyglot/query_rewriting_pack/
+Basic_Samples/Datastores/dotnet/csharp/volumes
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
-replay_pid*
+
+# IntelliJ
+.idea/
+*.iml
+
+# Java
+target/
+classes/
+build/

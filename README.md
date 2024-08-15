@@ -103,4 +103,4 @@ Enjoy!
 - [Spring AI Reference](https://docs.spring.io/spring-ai/reference/index.html)
 - [Spring Release Calendar](https://calendar.spring.io/)
 - [Spring-AI-Core Releases Folder (Maven Central) ](https://mvnrepository.com/artifact/org.springframework.ai/spring-ai-core)
-- [Spring Milestone Releases Repo](https://repo.spring.io/milestone/)- 
+- [Spring Milestone Releases Repo](https://repo.spring.io/milestone/) 

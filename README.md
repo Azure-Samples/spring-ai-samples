@@ -1,7 +1,9 @@
 # spring-ai-samples
 
 Welcome to the spring-ai-samples project!  
+
 Below are projects that are the result of the step-by-step instructions found at the: [QuickStarts page](https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart?tabs=command-line%2Cpython-new&pivots=programming-language-spring)
+
 All of these examples use Azure OpenAI, and can be used with other LLM's (ie ollama).
 
 ## Features

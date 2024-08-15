@@ -95,7 +95,8 @@ cd [target project]
 ```bash
 http localhost:8080/<target endpoint>
 ```
-Dig deeper into each project on the project's page.
+You can dig deeper into each project with specific instructions/examples on the project's page.
+
 Enjoy!
 
 ## Resources

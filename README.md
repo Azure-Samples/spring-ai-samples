@@ -77,7 +77,7 @@ git clone https://github.com/Azure-Samples/spring-ai-samples.git
 ```bash
 cd ./projects
 ```
-3. Decide which sub-project to start.  Change into that directory:
+3. Decide on a sub-project. Change into that directory:
 
 ```bash
 cd [target project]

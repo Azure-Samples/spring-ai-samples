@@ -1,7 +1,5 @@
 # spring-ai-samples
 
-(short, 1-3 sentenced, description of the project)
-
 Welcome to the spring-ai-samples project!  
 Below are projects that are the result of the step-by-step instructions found at the: [QuickStarts page](https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart?tabs=command-line%2Cpython-new&pivots=programming-language-spring)
 All of these examples use Azure OpenAI, and can be used with other LLM's (ie ollama).
@@ -48,12 +46,14 @@ For now, to create an easy setup, create a deployment in the [Azure AI Portal](h
 - Model Name: `gpt-35-turbo`
 
 ### Installation
-We strongly recommend using sdkman & httpie for building and exercising the apps.  Below are instructions for each.   SDKMan is used to manage multiple versions of common tools.  Below we use SDKMan to manage:
+We strongly recommend using sdkman & httpie for building and exercising the apps.  Below are instructions for each.   SDKMan is used to manage multiple versions of common tools.  
+
+Below we use SDKMan to manage:
 * Java
 * Maven
 * Gradle
 
-- [Install sdkman](https://sdkman.io/) 
+#### [Install sdkman](https://sdkman.io/) 
 ```bash
 curl -s "https://get.sdkman.io" | bash
 ```
@@ -64,7 +64,7 @@ sdk install java 21.0.4-librca; sdk use java 21.0.4-librca
 sdk install sdk install maven 3.9.6; sdk use maven 3.9.6
 ```
 
-- [Install HTTPie](https://httpie.io/docs/cli/installation)
+#### [Install HTTPie](https://httpie.io/docs/cli/installation)
 
 
 ### Quickstart

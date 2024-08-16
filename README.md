@@ -9,9 +9,8 @@ All of these examples use Azure OpenAI, and can be used with other LLM's (ie oll
 ## Features
 This project framework provides the following features:
 
-* Feature 1
-* Feature 2
-* ...
+* Jump-start Projects to Develop & Learn Generative AI solutions with Spring-AI & Azure OpenAI Service.
+* Immediate use of GPT-35-Turbo Models.
 
 ## Getting Started
 
@@ -95,7 +94,7 @@ cd [target project]
 ```bash
 http localhost:8080/<target endpoint>
 ```
-You can dig deeper into each project with specific instructions/examples on the project's page.
+You can dig deeper into each project with specific instructions/examples on that project's page.
 
 Enjoy!
 

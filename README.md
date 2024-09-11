@@ -2,7 +2,7 @@
 
 These projects will give you a basic start in AI projects with Azure-Open-AI and Spring-AI.  
 
-The following projects:
+Below are example projects:
 - Completions
 
 

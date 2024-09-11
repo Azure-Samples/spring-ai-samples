@@ -1,0 +1,12 @@
+#
+# application.yml: Provided as example.
+# By default, this uses enviro-vars referenced in the
+# README.md
+#
+debug: false
+spring:
+  ai:
+    azure:
+      openai:
+        api-key: ${SPRING_AI_AZURE_OPENAI_API_KEY}
+        endpoint: ${SPRING_AI_AZURE_OPENAI_ENDPOINT}

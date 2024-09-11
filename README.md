@@ -80,5 +80,5 @@ To build & run most demos, follow these steps:
 
 ## Resources
 
-- [Azure Quick Start](Quickstart: Get started generating text using Azure OpenAI Service)
+- [Azure Quick Start](https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart?tabs=command-line%2Cpython-new&pivots=programming-language-spring)
 

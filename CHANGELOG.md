@@ -1,13 +1,13 @@
-## [project-title] Changelog
+## [spring-ai-samples] Changelog
 
 <a name="x.y.z"></a>
-# x.y.z (yyyy-mm-dd)
+# Initial Project Setup (2024-09-10)
 
 *Features*
-* ...
+* Added Completions.
 
 *Bug Fixes*
-* ...
+* None.
 
 *Breaking Changes*
-* ...
+* None.

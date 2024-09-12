@@ -48,11 +48,12 @@ This configuration is compatible with the default settings of the Spring Boot Az
 
 The following need to be installed:
 
-- [Java IDE vsCode](https://code.visualstudio.com/download)
-- [SDKMan](https://sdkman.io/install/) Strongly Recommended to mange following:
-  - Java 21 or Greater
-  - Maven 3.9.3 or Greater
+- Java 21 or Greater
+- Maven 3.9.3 or Greater
 
+- [Java IDE vsCode](https://code.visualstudio.com/download) (Optional)  Strongly Recommended
+- [SDKMan](https://sdkman.io/install/) (Optional) Strongly Recommended
+ 
 Once SDKMan is installed, you can install Java and Maven with the following:
 ```
 sdk install maven 3.9.3

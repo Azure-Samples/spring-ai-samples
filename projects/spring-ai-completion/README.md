@@ -1,24 +1,8 @@
-# Spring AI Samples
+# Simple Spring AI Application with Azure OpenAI
 
-These projects will give you a basic start in AI projects with Azure-Open-AI and Spring-AI.  
+This project contains a simple java-spring-boot app that will ask a basic question to the Azure OpenAI Service, and return the answer.
 
-Below are example projects:
-- Completions
-
-
-## Features
-
-This project framework provides the following features:
-
-* Jump-Start With Java & Spring-Boot
-* Integrated With Azure-Open-AI
-* Integrated with Spring-AI
-
-
-## Getting Started
-
-### Prerequisites
-
+## Prerequisite
 
 Before using the AI commands, obtain your Azure OpenAI `endpoint` and `api-key` from the Azure OpenAI Service section on [Azure Portal](https://portal.azure.com)
 Exporting the environment variables is one way to set these configuration properties.
@@ -44,43 +28,14 @@ For now, to create an easy setup, create a deployment in the [Azure AI Portal](h
 
 This configuration is compatible with the default settings of the Spring Boot Azure AI Starter and its auto-configuration capabilities.
 
-### Installation
 
-The following need to be installed:
+## Building and running
 
-- Java 21 or Greater
-- Maven 3.9.3 or Greater
-
-- [Java IDE vsCode](https://code.visualstudio.com/download) (Optional)  Strongly Recommended
-- [SDKMan](https://sdkman.io/install/) (Optional) Strongly Recommended
- 
-Once SDKMan is installed, you can install Java and Maven with the following:
 ```
-sdk install maven 3.9.3
-```
-```
-sdk install java 21.0.4-librca
+./mvnw spring-boot:run
 ```
 
-### Quickstart
-
-1. ``` git clone https://github.com/Azure-Samples/spring-ai-samples.git ```
-2. ``` cd ./spring-ai-samples ```
-3. ``` cd ./projects ```
-4. Decide which project you want to use.
 
 
 
-## Demo
-
-To build & run most demos, follow these steps:
-
-
-1. ``` cd (target-project)    ```
-2. ``` ./mvnw clean install   ```
-3. ``` ./mvnw spring-boot:run ```
-
-## Resources
-
-- [Azure Quick Start](https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart?tabs=command-line%2Cpython-new&pivots=programming-language-spring)
 
